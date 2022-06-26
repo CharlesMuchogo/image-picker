@@ -1,6 +1,6 @@
-# lockdown
+# Image Picker
 
-A new Flutter project.
+Flutter template to pick imaged from gallery or camera in android devices
 
 ## Getting Started
 
